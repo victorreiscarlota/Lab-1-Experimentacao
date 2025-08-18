@@ -31,6 +31,10 @@ O objetivo deste laboratório é automatizar a coleta e análise de dados de rep
 ---
 
 ## ⚙️ Como Executar
+1. **Criar ambiente virtual**
+   ```bash
+   python -m venv venv
+   ```
 
 2. **Ativar o ambiente**
    ```bash
