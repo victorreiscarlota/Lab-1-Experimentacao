@@ -62,20 +62,20 @@ código aberto.
 populares ou não, está concentrada nas idades mais baixas, o que sugere que muitos projetos 
 podem alcançar um alto número de estrelas em pouco tempo. Não há uma tendência de que os 
 projetos mais antigos sejam, necessariamente, os mais populares.
-  ![alt text](image.png)
+  ![alt text](images/image.png)
 
 - **H2 (Pull Requests)**: O gráfico "PRs Aceitos x Estrelas" também não apresenta uma correlação evidente. Embora 
 haja alguns repositórios com um número muito alto de pull requests aceitas, o número de 
 estrelas é bastante disperso, sem uma relação direta com as contribuições externas. Isso 
 indica que a popularidade de um projeto não está diretamente ligada à quantidade de 
 contribuições aceitas.
-  ![alt text](image-1.png)
+  ![alt text](images/image-1.png)
 
 - **H3 (Releases)**: O gráfico "Releases x Estrelas" mostra que, assim como nos outros casos, não há uma 
 correlação forte. Existem projetos com muitas releases e poucas estrelas, e vice-versa. A 
 dispersão dos dados indica que o número de releases não é um fator determinante para a 
 popularidade de um repositório.
- ![alt text](image-2.png)
+ ![alt text](images/image-2.png)
 
 - **H4 (Atualizações)**: A análise mostra que a maioria dos sistemas populares apresenta um número reduzido de dias 
 desde a última atualização, concentrando-se próximos de zero. Isso indica que projetos 
@@ -84,7 +84,7 @@ Entretanto, observa-se que alguns repositórios continuam muito populares mesmo 
 atualizações recentes, evidenciando que popularidade pode ser mantida também por fatores 
 históricos (como pioneirismo ou utilidade consolidada), independentemente de atualizações 
 frequentes.
- ![alt text](image-3.png)
+ ![alt text](images/image-3.png)
 
 - **H5 (Linguagem)**: A análise mostra que a maioria dos sistemas populares está concentrada em linguagens 
 amplamente utilizadas e reconhecidas globalmente, como Python, JavaScript e TypeScript, que 
@@ -95,8 +95,8 @@ No entanto, observam-se exceções como Markdown e Dockerfile, que, apesar de n�
 figurarem entre as linguagens de programação mais comuns, aparecem com elevado número 
 de estrelas devido à existência de repositórios de grande impacto que utilizam essas 
 linguagens como primárias.
-![alt text](image-4.png)
-![alt text](image-5.png)
+![alt text](images/image-4.png)
+![alt text](images/image-5.png)
 
 - **H6 (Issues)**: A  análise  mostra  que,  em  geral,  sistemas  populares  apresentam  uma  taxa  elevada  de 
 fechamento de issues. O gráfico de dispersão evidencia que os projetos com maior número de 
@@ -105,7 +105,7 @@ resolução de problemas.
 No  entanto,  também  existem  casos  de  repositórios  bastante  populares  com  taxas  de 
 fechamento  muito  baixas, sugerindo que a popularidade não implica, necessariamente, em 
 uma gestão eficiente de issues.
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 
 ## Conclusão
 
